@@ -20,3 +20,11 @@
 Уведомление о том, что уже всё. Далее переход идёт на главную страницу программы
 
 ![image](https://user-images.githubusercontent.com/90152615/204138194-31253a01-9582-45e8-80d1-1784bcad0d94.png)
+
+Таблицы БД
+
+![image](https://user-images.githubusercontent.com/90152615/204145248-96ab7d43-2e75-45c2-b649-4478b53931dd.png)
+![image](https://user-images.githubusercontent.com/90152615/204145259-73eb3791-e146-4073-99b1-e026b70ff67a.png)
+![image](https://user-images.githubusercontent.com/90152615/204145266-528dc2e6-8890-40e5-a2be-885c542cf38e.png)
+![image](https://user-images.githubusercontent.com/90152615/204145302-1a244016-3c06-455d-9cab-eab758144270.png)
+![image](https://user-images.githubusercontent.com/90152615/204145319-60b1df34-7fd0-4b42-be80-e82a75a8298d.png)
