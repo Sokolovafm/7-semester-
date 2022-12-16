@@ -14,7 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using 1001Tur.Models;
 
-namespace WpfApp1.Pages
+namespace 1001Tur.Pages
 {
     /// <summary>
     /// Логика взаимодействия для HotelsPage.xaml
