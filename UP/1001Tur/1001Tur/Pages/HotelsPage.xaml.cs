@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using WpfApp1.Models;
+using 1001Tur.Models;
 
 namespace WpfApp1.Pages
 {
@@ -27,7 +27,7 @@ namespace WpfApp1.Pages
         public HotelsPage()
         {
             InitializeComponent();
-            DGridHotels.ItemsSource = TourAgencyGachiEntities.GetContext().Hotels.ToList();
+            DGridHotels.ItemsSource = 1001TurEntities.GetContext().Hotels.ToList();
         }
 
         /// <summary>
