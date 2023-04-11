@@ -1,0 +1,21 @@
+﻿<Page x:Class="GuessApp.LogINPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GuessApp"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="LogINPage">
+
+    <Grid>
+        <StackPanel>
+            <Image Source="\Resources\guesslogo.png" Width="200"></Image>
+            <Label Width="200" Content="Login"></Label>
+            <TextBox Name="Login" Width="200"></TextBox>
+            <Label Width="200" Content="Password"></Label>
+            <PasswordBox Width="200"></PasswordBox>
+            <Button Content="Enter" Width="200" Margin="5"></Button>
+        </StackPanel>
+    </Grid>
+</Page>
